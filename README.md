@@ -2,7 +2,7 @@
 
 Здравствуйте!
 
-Меня зовут Нури. Я Java Middle Backend Developer.
+Меня зовут Нури Фетиев. Я Java Middle Backend Developer.
 
 Здесь собраны мои основные проекты, демонстрирующие навыки разработки на Java, Spring Boot, PostgreSQL, Docker и работы с микросервисной архитектурой.
 
