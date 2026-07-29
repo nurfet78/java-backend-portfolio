@@ -30,22 +30,6 @@
 
 Разрабатываю backend-приложения на Java с использованием Spring Boot. Проектирую REST API, работаю с PostgreSQL, транзакциями и механизмами конкурентного доступа к данным. Пишу модульные и интеграционные тесты, использую Docker и современные инструменты разработки.
 
-### Технологии
-
-- Java 21
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- PostgreSQL
-- Docker
-- Maven
-- JUnit 5
-- Mockito
-- Testcontainers
-- GitLab CI/CD
-- REST API
-
 ---
 
 ## Проекты
@@ -121,6 +105,24 @@ REST-сервис управления мероприятиями.
 **Стек:** Java 21 • JUnit 5
 
 🔗 **Репозиторий:** [ATMEmulator](https://github.com/nurfet78/ATMEmulator)
+
+---
+
+### Технологии
+
+- Java 21
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- PostgreSQL
+- Docker
+- Maven
+- JUnit 5
+- Mockito
+- Testcontainers
+- GitLab CI/CD
+- REST API
 
 ---
 
