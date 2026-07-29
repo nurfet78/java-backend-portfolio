@@ -1,3 +1,9 @@
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.x-brightgreen)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-blue)
+![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED)
+
+
 # Java Backend Portfolio
 
 Здравствуйте!
